@@ -1,1 +1,411 @@
-Hello World
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>Wenhai Wang</title>
+    <meta content="Wenhai Wang, https://whai362.github.io" name="keywords">
+    <style media="screen" type="text/css">
+        html,
+        body,
+        div,
+        span,
+        applet,
+        object,
+        iframe,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        p,
+        blockquote,
+        pre,
+        a,
+        abbr,
+        acronym,
+        address,
+        big,
+        cite,
+        code,
+        del,
+        dfn,
+        em,
+        font,
+        img,
+        ins,
+        kbd,
+        q,
+        s,
+        samp,
+        small,
+        strike,
+        strong,
+        sub,
+        tt,
+        var,
+        dl,
+        dt,
+        dd,
+        ol,
+        ul,
+        li,
+        fieldset,
+        form,
+        label,
+        legend,
+        table,
+        caption,
+        tbody,
+        tfoot,
+        thead,
+        tr,
+        th,
+        td {
+            border: 0pt none;
+            font-family: inherit;
+            font-size: 100%;
+            font-style: inherit;
+            font-weight: inherit;
+            margin: 0pt;
+            outline-color: invert;
+            outline-style: none;
+            outline-width: 0pt;
+            padding: 0pt;
+            vertical-align: baseline;
+        }
+
+        a {
+            color: #1772d0;
+            text-decoration: none;
+        }
+
+        a:focus,
+        a:hover {
+            color: #f09228;
+            text-decoration: none;
+        }
+
+        a.paper {
+            font-weight: bold;
+            font-size: 12pt;
+        }
+
+        b.paper {
+            font-weight: bold;
+            font-size: 12pt;
+        }
+
+        * {
+            margin: 0pt;
+            padding: 0pt;
+        }
+
+        body {
+            position: relative;
+            margin: 3em auto 2em auto;
+            width: 800px;
+            font-family: Verdana, Helvetica, sans-serif;
+            font-size: 14px;
+            background: #eee;
+        }
+
+        h2 {
+            font-family: Verdana, Helvetica, sans-serif;
+            font-size: 15pt;
+            font-weight: 700;
+        }
+
+        h3 {
+            font-family: Verdana, Helvetica, sans-serif;
+            font-size: 16px;
+            font-weight: 700;
+        }
+
+        strong {
+            font-family: Verdana, Helvetica, sans-serif;
+            font-size: 13px;
+            font-weight: bold;
+        }
+
+        ul {
+            list-style: circle;
+        }
+
+        img {
+            border: none;
+        }
+
+        li {
+            padding-bottom: 0.5em;
+            margin-left: 1.4em;
+        }
+
+        alert {
+            font-family: Verdana, Helvetica, sans-serif;
+            font-size: 13px;
+            font-weight: bold;
+            color: #FF0000;
+        }
+
+        em,
+        i {
+            font-style: italic;
+        }
+
+        div.section {
+            clear: both;
+            margin-bottom: 1.5em;
+            background: #eee;
+        }
+
+        div.spanner {
+            clear: both;
+        }
+
+        div.paper {
+            clear: both;
+            margin-top: 0.5em;
+            margin-bottom: 1em;
+            border: 1px solid #ddd;
+            background: #fff;
+            padding: 1em 1em 1em 1em;
+        }
+
+        div.paper div {
+            padding-left: 230px;
+        }
+
+        img.paper {
+            margin-bottom: 0.5em;
+            float: left;
+            width: 200px;
+        }
+
+        span.blurb {
+            font-style: italic;
+            display: block;
+            margin-top: 0.75em;
+            margin-bottom: 0.5em;
+        }
+
+        pre,
+        code {
+            font-family: 'Lucida Console', 'Andale Mono', 'Courier', monospaced;
+            margin: 1em 0;
+            padding: 0;
+        }
+
+        div.paper pre {
+            font-size: 0.9em;
+        }
+    </style>
+
+    <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet"
+          type="text/css"/>
+
+    <!--    <script async="" src="./resources/analytics.js"></script>-->
+    <!--    <script>-->
+    <!--        (function (i, s, o, g, r, a, m) {-->
+    <!--            i['GoogleAnalyticsObject'] = r;-->
+    <!--            i[r] = i[r] || function () {-->
+    <!--                (i[r].q = i[r].q || []).push(arguments)-->
+    <!--            }, i[r].l = 1 * new Date();-->
+    <!--            a = s.createElement(o),-->
+    <!--                m = s.getElementsByTagName(o)[0];-->
+    <!--            a.async = 1;-->
+    <!--            a.src = g;-->
+    <!--            m.parentNode.insertBefore(a, m)-->
+    <!--        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');-->
+
+    <!--        ga('create', 'UA-96229663-1', 'whai362.github.io/');-->
+    <!--        ga('send', 'pageview');-->
+    <!--    </script>-->
+</head>
+
+
+<body>
+<div style="margin-bottom: 1em; border: 1px solid #ddd; background-color: #fff; padding: 1em; height: 130px;">
+    <div style="margin: 0px auto; width: 100%;">
+        <img title="whai362" style="float: left; padding-left: .01em; height: 130px;"
+             src="./resources/images/me.png">
+        <div style="padding-left: 10em; vertical-align: top; height: 120px;">
+            <span style="line-height: 150%; font-size: 20pt;">Wenhai Wang (王文海)</span><br>
+            <span>Department of Computer Science and Technology, <a
+                    href="https://www.nju.edu.cn/EN/7f/6b/c7136a163691/page.htm">Nanjing University (NJU)</a></span><br>
+            <span><strong>Address</strong>: 163 Xianlin Avenue, Qixia District, Nanjing, China</span><br>
+            <span><strong>Email</strong>: wangwenhai362 [at] {163.com, smail.nju.edu.cn} </span> <br>
+        </div>
+    </div>
+</div>
+<!--<div style="clear: both; background-color: #fff; margin-top: 1.5em; padding: .2em; padding-left: .3em;">-->
+
+<div style="clear: both;">
+    <div class="section">
+        <h2>About Me ([<a href="https://github.com/whai362">GitHub</a>]
+            [<a href="https://scholar.google.com/citations?user=WM0OglcAAAAJ">Google Scholar</a>]
+            [<a href="./resources/cv/wwh_cv.pdf">CV</a>])
+        </h2>
+        <div class="paper">
+            I am a second-year PhD candidate at Department of Computer Science and Technology, Nanjing University (NJU).
+            My academic supervisor is <a href="https://cs.nju.edu.cn/lutong/">Prof. Tong Lu</a>.
+            I received the bachelor's degree from School of Computer Science and Engineering, Nanjing University of Science and Technology (NUST) in 2016.
+            My recent works are mainly on scene text detection/recognition, deep
+            neural networks exploration, object detection and instance segmentation.
+        </div>
+    </div>
+</div>
+
+<div style="clear: both;">
+    <div class="section">
+        <h2 id="experience">Experience</h2>
+        <div class="paper">
+            <ul>
+                <li>
+                    Oct. 2019 - Mar. 2020, research assistant at the University of Hong Kong (HKU), hosted by
+                    <a href="https://scholar.google.com.hk/citations?user=aXdjxb4AAAAJ">Prof. Ping Luo</a>
+                </li>
+                <li>
+                    Aug. 2019 - Mar. 2020, research intern at SenseTime Group Limited, hosted by <a
+                        href="https://scholar.google.com/citations?user=5C6zNiIAAAAJ">Xuebo Liu</a> and <a
+                        href="https://scholar.google.com/citations?user=Dqjnn0gAAAAJ">Ding Liang</a>
+                </li>
+                <li>
+                    Jun. 2018 - Dec. 2018, research intern at Momenta, hosted by <a
+                        href="https://scholar.google.com/citations?user=oamjJdYAAAAJ">Xiang Li</a>
+                </li>
+            </ul>
+
+            <div class="spanner"></div>
+        </div>
+    </div>
+</div>
+
+
+<div style="clear: both;">
+    <div class="section">
+        <h2 id="confpapers">Selected Publications</h2>
+
+        <div class="paper"><img class="paper" src="./resources/paper_icon/ICCV_2019_PAN.png"
+                                title="Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network">
+            <div><strong>Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network</strong><br>
+                <strong>Wenhai Wang</strong>*, Enze Xie*, Xiaoge Song, Yuhang Zang, Wenjia Wang, Tong Lu, Gang Yu, Chunhua Shen<br>
+                in ICCV, 2019<br>
+                [<a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Efficient_and_Accurate_Arbitrary-Shaped_Text_Detection_With_Pixel_Aggregation_Network_ICCV_2019_paper.pdf">Paper</a>]
+                [<a href="./resources/posters/ICCV_2019_PAN.pdf">Poster</a>]
+                [<a href="./resources/bibtex/ICCV_2019_PAN.txt">BibTex</a>]
+                <!--[<a href="">Code</a>]-->
+                <br>
+                <alert>We propose an efficient arbitrary-shaped text detector which is equipped a lightweight network and a learnable post-processing.</alert>
+            </div>
+            <div class="spanner"></div>
+        </div>
+
+        <div class="paper"><img class="paper" src="./resources/paper_icon/CVPR_2019_PSENet.png"
+                                title="Shape Robust Text Detection with Progressive Scale Expansion Network">
+            <div><strong>Shape Robust Text Detection with Progressive Scale Expansion Network</strong><br>
+                <strong>Wenhai Wang</strong>*, Enze Xie*, Xiang Li, Wenbo Hou, Tong Lu, Gang Yu, Shuai Shao<br>
+                in CVPR, 2019<br>
+                [<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Shape_Robust_Text_Detection_With_Progressive_Scale_Expansion_Network_CVPR_2019_paper.pdf">Paper</a>]
+                [<a href="./resources/posters/CVPR_2019_PSENet.pdf">Poster</a>]
+                [<a href="./resources/bibtex/CVPR_2019_PSENet.txt">BibTex</a>]
+                [<a href="https://github.com/whai362/PSENet">Code</a><img src="https://img.shields.io/github/stars/whai362/PSENet?style=social"/>]
+                <br>
+                <alert>We proposed a segmentation-based text detector that can precisely detect text instances with arbitrary shapes.</alert>
+            </div>
+            <div class="spanner"></div>
+        </div>
+
+        <div class="paper"><img class="paper" src="./resources/paper_icon/IJCAI_2018_MixNet.png"
+                                title="Mixed Link Networks">
+            <div><strong>Mixed Link Networks</strong><br>
+                <strong>Wenhai Wang</strong>*, Xiang Li*, Jian Yang, Tong Lu<br>
+                in IJCAI, 2018<br>
+                [<a href="https://www.ijcai.org/Proceedings/2018/0391.pdf">Paper</a>]
+                [<a href="./resources/posters/IJCAI_2018_MixNet.pdf">Poster</a>]
+                [<a href="./resources/bibtex/IJCAI_2018_MixNet.txt">BibTex</a>]
+                [<a href="https://github.com/DeepInsight-PCALab/MixNet">Code</a><img src="https://img.shields.io/github/stars/DeepInsight-PCALab/MixNet?style=social"/>]
+                <br>
+                <alert>We proposed a highly efficient and modularized convolutional networks which is equipped with flexible inner link and outer link modules. </alert>
+            </div>
+            <div class="spanner"></div>
+        </div>
+
+        <div class="paper"><img class="paper" src="./resources/paper_icon/CVPR_2019_SKNet.png"
+                                title="Selective Kernel Networks">
+            <div><strong>Selective Kernel Networks</strong><br>
+                Xiang Li, <strong>Wenhai Wang</strong>, Xiaolin Hu, Jian Yang<br>
+                in CVPR, 2019<br>
+                [<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Selective_Kernel_Networks_CVPR_2019_paper.pdf">Paper</a>]
+                [<a href="./resources/bibtex/CVPR_2019_SKNet.txt">BibTex</a>]
+                [<a href="https://github.com/implus/SKNet">Code</a><img src="https://img.shields.io/github/stars/implus/SKNet?style=social"/>]
+                <br>
+                <alert>SKNet allows each neuron to adaptively adjust its receptive field size based on multiple scales of input information.</alert>
+            </div>
+            <div class="spanner"></div>
+        </div>
+
+        <div class="paper"><img class="paper" src="./resources/paper_icon/CVPR_2020_PolarMask.png"
+                                title="PolarMask: Single Shot Instance Segmentation with Polar Representation">
+            <div><strong>PolarMask: Single Shot Instance Segmentation with Polar Representation</strong><br>
+                Enze Xie*, Peize Sun*, Xiaoge Song*, <strong>Wenhai Wang</strong>, Chunhua Shen, Ping Luo<br>
+                in CVPR, 2020<br>
+                [<a href="https://arxiv.org/pdf/1909.13226.pdf">Paper</a>]
+                [<a href="./resources/bibtex/CVPR_2020_PolarMask.txt">BibTex</a>]
+                [<a href="https://github.com/xieenze/PolarMask">Code</a><img src="https://img.shields.io/github/stars/xieenze/PolarMask?style=social"/>]
+                <br>
+                <alert>PolarMask formulates the instance segmentation problem as instance center classification and dense distance regression in a polar coordinate.</alert>
+            </div>
+            <div class="spanner"></div>
+        </div>
+
+    </div>
+</div>
+
+
+<div style="clear: both;">
+    <div class="section">
+        <h2 id="confpapers">Contest</h2>
+        <div class="paper">
+            <ul>
+                <li>
+                    ICDAR2019 Robust Reading Challenge on Arbitrary-Shaped Text, Task1, <a href="https://rrc.cvc.uab.es/?ch=14&com=evaluation&view=method_info&task=1&m=54491">1st Place</a>.
+                </li>
+                <li>
+                    ICDAR2019 Robust Reading Challenge on Large-scale Street View Text with Partial Labeling, Task1, <a href="https://rrc.cvc.uab.es/?ch=16&com=evaluation&view=method_info&task=1&m=54537">2nd Place</a>.
+                </li>
+                <li>
+                    AI Challenger 2018 Autonomous Driving Perception Task, <a href="https://www.leiphone.com/news/201812/DZmTgOqD8TQAHf2h.html">2nd Place</a>
+                </li>
+                <li>
+                    ACM-ICPC Asia Regional Contest, Silver Medal
+                </li>
+            </ul>
+            <div class="spanner"></div>
+        </div>
+    </div>
+</div>
+
+
+<div style="clear: both;">
+    <div class="section">
+        <h2>Review Services</h2>
+        <div class="paper">
+            <strong>Journal Reviewer</strong><br>
+            IEEE Transactions on Multimedia (T-MM)
+            <br>
+
+            <strong>Conference Reviewer</strong><br>
+            IEEE Conference on Computer Vision and Pattern Recogniti (CVPR), 2020<br>
+        </div>
+    </div>
+</div>
+
+<!--<div style='width:600px;height:300px;margin:0 auto'>-->
+<!--    <script type="text/javascript" id="clustrmaps"-->
+<!--            src="//cdn.clustrmaps.com/map_v2.js?d=rQAyBcnhj1fs9XwZwPIb1KUJsGs7U0rPzd7PEoz3kQo&cl=ffffff&w=a"></script>-->
+<!--</div>-->
+
+</body>
+</html>

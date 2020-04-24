@@ -1,0 +1,7 @@
+@InProceedings{Li_2019_CVPR,
+author = {Li, Xiang and Wang, Wenhai and Hu, Xiaolin and Yang, Jian},
+title = {Selective Kernel Networks},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+}
