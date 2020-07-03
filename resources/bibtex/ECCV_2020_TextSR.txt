@@ -1,0 +1,6 @@
+@article{wang2020scene,
+  title={Scene Text Image Super-Resolution in the Wild},
+  author={Wang, Wenjia and Xie, Enze and Liu, Xuebo and Wang, Wenhai and Liang, Ding and Shen, Chunhua and Bai, Xiang},
+  journal={arXiv preprint arXiv:2005.03341},
+  year={2020}
+}

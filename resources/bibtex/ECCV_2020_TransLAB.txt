@@ -1,0 +1,6 @@
+@article{xie2020segmenting,
+  title={Segmenting Transparent Objects in the Wild},
+  author={Xie, Enze and Wang, Wenjia and Wang, Wenhai and Ding, Mingyu and Shen, Chunhua and Luo, Ping},
+  journal={arXiv preprint arXiv:2003.13948},
+  year={2020}
+}
