@@ -1,0 +1,16 @@
+@inproceedings{Wang2020AET,
+    title       = {{AE TextSpotter}: Learning Visual and Linguistic Representation for Ambiguous Text Spotting},
+    author      = {Wenhai Wang    and Xuebo Liu     and Xiaozhong Ji  and Enze Xie      and
+                    Ding Liang    and ZhiBo Yang    and Tong Lu       and Chunhua Shen  and Ping Luo},
+    year        = {2020},
+    pages       = {},
+    volume      = {},
+    publisher   = {},
+    eprint      = {},
+    booktitle   = {European Conference on Computer Vision (ECCV'20)},
+    address     = {},
+    venue       = {ECCV},
+    url         = {},
+    project     = {},
+    note        = {},
+}
