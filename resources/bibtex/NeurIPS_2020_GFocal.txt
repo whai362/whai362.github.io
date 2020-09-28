@@ -1,0 +1,6 @@
+@article{li2020generalized,
+  title={Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection},
+  author={Li, Xiang and Wang, Wenhai and Wu, Lijun and Chen, Shuo and Hu, Xiaolin and Li, Jun and Tang, Jinhui and Yang, Jian},
+  journal={arXiv preprint arXiv:2006.04388},
+  year={2020}
+}
