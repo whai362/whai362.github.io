@@ -1,0 +1,8 @@
+@inproceedings{jin2020differentiable,
+  title={Differentiable hierarchical graph grouping for multi-person pose estimation},
+  author={Jin, Sheng and Liu, Wentao and Xie, Enze and Wang, Wenhai and Qian, Chen and Ouyang, Wanli and Luo, Ping},
+  booktitle={European Conference on Computer Vision},
+  pages={718--734},
+  year={2020},
+  organization={Springer}
+}
