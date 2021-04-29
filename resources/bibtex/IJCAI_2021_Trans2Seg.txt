@@ -1,0 +1,6 @@
+@article{xie2021segmenting,
+  title={Segmenting transparent object in the wild with transformer},
+  author={Xie, Enze and Wang, Wenjia and Wang, Wenhai and Sun, Peize and Xu, Hang and Liang, Ding and Luo, Ping},
+  journal={arXiv preprint arXiv:2101.08461},
+  year={2021}
+}
