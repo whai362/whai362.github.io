@@ -1,0 +1,8 @@
+@misc{wang2021pan,
+      title={PAN++: Towards Efficient and Accurate End-to-End Spotting of Arbitrarily-Shaped Text}, 
+      author={Wenhai Wang and Enze Xie and Xiang Li and Xuebo Liu and Ding Liang and Zhibo Yang and Tong Lu and Chunhua Shen},
+      year={2021},
+      eprint={2105.00405},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
