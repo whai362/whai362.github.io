@@ -1,0 +1,6 @@
+@article{xie2021detco,
+  title={Detco: Unsupervised contrastive learning for object detection},
+  author={Xie, Enze and Ding, Jian and Wang, Wenhai and Zhan, Xiaohang and Xu, Hang and Li, Zhenguo and Luo, Ping},
+  journal={arXiv preprint arXiv:2102.04803},
+  year={2021}
+}
