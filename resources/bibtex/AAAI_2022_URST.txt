@@ -1,0 +1,6 @@
+@article{chen2021towards,
+  title={Towards Ultra-Resolution Neural Style Transfer via Thumbnail Instance Normalization},
+  author={Chen, Zhe and Wang, Wenhai and Xie, Enze and Lu, Tong and Luo, Ping},
+  journal={arXiv preprint arXiv:2103.11784},
+  year={2021}
+}
