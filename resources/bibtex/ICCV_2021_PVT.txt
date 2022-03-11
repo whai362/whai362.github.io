@@ -1,6 +1,7 @@
-@article{wang2021pyramid,
+@inproceedings{wang2021pyramid,
   title={Pyramid vision transformer: A versatile backbone for dense prediction without convolutions},
   author={Wang, Wenhai and Xie, Enze and Li, Xiang and Fan, Deng-Ping and Song, Kaitao and Liang, Ding and Lu, Tong and Luo, Ping and Shao, Ling},
-  journal={arXiv preprint arXiv:2102.12122},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={568--578},
   year={2021}
 }

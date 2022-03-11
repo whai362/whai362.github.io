@@ -1,8 +1,10 @@
-@misc{xie2021polarmask,
-      title={PolarMask++: Enhanced Polar Representation for Single-Shot Instance Segmentation and Beyond}, 
-      author={Enze Xie and Wenhai Wang and Mingyu Ding and Ruimao Zhang and Ping Luo},
-      year={2021},
-      eprint={2105.02184},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{xie2021polarmask++,
+  title={Polarmask++: Enhanced polar representation for single-shot instance segmentation and beyond},
+  author={Xie, Enze and Wang, Wenhai and Ding, Mingyu and Zhang, Ruimao and Luo, Ping},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  publisher={IEEE}
 }

@@ -1,0 +1,6 @@
+@article{li2021panoptic,
+  title={Panoptic SegFormer: Delving Deeper into Panoptic Segmentation with Transformers},
+  author={Li, Zhiqi and Wang, Wenhai and Xie, Enze and Yu, Zhiding and Anandkumar, Anima and Alvarez, Jose M and Lu, Tong and Luo, Ping},
+  journal={arXiv preprint arXiv:2109.03814},
+  year={2021}
+}

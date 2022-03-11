@@ -1,12 +1,7 @@
-@inproceedings{ijcai2018-391,
-  title     = {Mixed Link Networks},
-  author    = {Wenhai Wang and Xiang Li and Tong Lu and Jian Yang},
-  booktitle = {Proceedings of the Twenty-Seventh International Joint Conference on
-               Artificial Intelligence, {IJCAI-18}},
-  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
-  pages     = {2819--2825},
-  year      = {2018},
-  month     = {7},
-  doi       = {10.24963/ijcai.2018/391},
-  url       = {https://doi.org/10.24963/ijcai.2018/391},
+@inproceedings{wang2018mixed,
+  title={Mixed link networks},
+  author={Wang, Wenhai and Li, Xiang and Lu, Tong and Yang, Jian},
+  booktitle={Proceedings of the 27th International Joint Conference on Artificial Intelligence},
+  pages={2819--2825},
+  year={2018}
 }

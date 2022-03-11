@@ -1,6 +1,7 @@
 @article{xie2021segformer,
-  title={SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers},
+  title={SegFormer: Simple and efficient design for semantic segmentation with transformers},
   author={Xie, Enze and Wang, Wenhai and Yu, Zhiding and Anandkumar, Anima and Alvarez, Jose M and Luo, Ping},
-  journal={arXiv preprint arXiv:2105.15203},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
   year={2021}
 }

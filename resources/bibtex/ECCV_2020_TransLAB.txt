@@ -1,6 +1,8 @@
-@article{xie2020segmenting,
-  title={Segmenting Transparent Objects in the Wild},
+@inproceedings{xie2020segmenting,
+  title={Segmenting transparent objects in the wild},
   author={Xie, Enze and Wang, Wenjia and Wang, Wenhai and Ding, Mingyu and Shen, Chunhua and Luo, Ping},
-  journal={arXiv preprint arXiv:2003.13948},
-  year={2020}
+  booktitle={European conference on computer vision},
+  pages={696--711},
+  year={2020},
+  organization={Springer}
 }
