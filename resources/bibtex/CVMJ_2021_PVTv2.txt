@@ -1,5 +1,5 @@
 @article{wang2021pvtv2,
-  title={Pvtv2: Improved baselines with pyramid vision transformer},
+  title={Pvt v2: Improved baselines with pyramid vision transformer},
   author={Wang, Wenhai and Xie, Enze and Li, Xiang and Fan, Deng-Ping and Song, Kaitao and Liang, Ding and Lu, Tong and Luo, Ping and Shao, Ling},
   journal={Computational Visual Media},
   volume={8},
