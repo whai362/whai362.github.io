@@ -1,0 +1,9 @@
+@ARTICLE{li2022gfl,
+  author={Li, Xiang and Lv, Chengqi and Wang, Wenhai and Li, Gang and Yang, Lingfeng and Yang, Jian},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Generalized Focal Loss: Towards Efficient Representation Learning for Dense Object Detection}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={}}

@@ -1,0 +1,6 @@
+@article{chen2022vision,
+  title={Vision Transformer Adapter for Dense Predictions},
+  author={Chen, Zhe and Duan, Yuchen and Wang, Wenhai and He, Junjun and Lu, Tong and Dai, Jifeng and Qiao, Yu},
+  journal={arXiv preprint arXiv:2205.08534},
+  year={2022}
+}

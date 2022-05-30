@@ -1,0 +1,6 @@
+@article{tian2021vl,
+  title={VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition},
+  author={Tian, Changyao and Wang, Wenhai and Zhu, Xizhou and Wang, Xiaogang and Dai, Jifeng and Qiao, Yu},
+  journal={arXiv preprint arXiv:2111.13579},
+  year={2021}
+}
