@@ -77,7 +77,8 @@ body {
     background: #eee;
 }
 
-iframe.info {
+iframe.info,
+body.info {
     width: 820px;
     height: 130px;
 }
