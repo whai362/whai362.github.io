@@ -1,0 +1,7 @@
+@article{shi2022incremental,
+  title={Incremental Few-Shot Semantic Segmentation via Embedding Adaptive-Update and Hyper-class Representation},
+  author={Shi, Guangchen and Wu, Yirui and Liu, Jun and Wan, Shaohua and Wang, Wenhai and Lu, Tong},
+  journal={arXiv e-prints},
+  pages={arXiv--2207},
+  year={2022}
+}
