@@ -1,0 +1,8 @@
+@article{zhu2022uni,
+  title={Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs},
+  author={Zhu, Jinguo and Zhu, Xizhou and Wang, Wenhai and Wang, Xiaohua and Li, Hongsheng and Wang, Xiaogang and Dai, Jifeng},
+  journal={Advances in Neural Information Processing Systems},
+  volume={1},
+  pages={1-12},
+  year={2022}
+}
