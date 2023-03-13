@@ -1,0 +1,6 @@
+@article{hu2022goal,
+  title={Goal-oriented Autonomous Driving},
+  author={Hu, Yihan and Yang, Jiazhi and Chen, Li and Li, Keyu and Sima, Chonghao and Zhu, Xizhou and Chai, Siqi and Du, Senyao and Lin, Tianwei and Wang, Wenhai and others},
+  journal={arXiv preprint arXiv:2212.10156},
+  year={2022}
+}
