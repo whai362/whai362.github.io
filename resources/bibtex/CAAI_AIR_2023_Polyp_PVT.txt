@@ -1,0 +1,6 @@
+@article{dong2021polyp,
+  title={Polyp-pvt: Polyp segmentation with pyramid vision transformers},
+  author={Dong, Bo and Wang, Wenhai and Fan, Deng-Ping and Li, Jinpeng and Fu, Huazhu and Shao, Ling},
+  journal={arXiv preprint arXiv:2108.06932},
+  year={2021}
+}

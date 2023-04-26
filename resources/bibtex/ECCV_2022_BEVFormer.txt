@@ -1,0 +1,8 @@
+@inproceedings{li2022bevformer,
+  title={Bevformer: Learning bird’s-eye-view representation from multi-camera images via spatiotemporal transformers},
+  author={Li, Zhiqi and Wang, Wenhai and Li, Hongyang and Xie, Enze and Sima, Chonghao and Lu, Tong and Qiao, Yu and Dai, Jifeng},
+  booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part IX},
+  pages={1--18},
+  year={2022},
+  organization={Springer}
+}

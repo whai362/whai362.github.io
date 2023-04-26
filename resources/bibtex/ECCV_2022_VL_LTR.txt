@@ -1,0 +1,8 @@
+@inproceedings{tian2022vl,
+  title={Vl-ltr: Learning class-wise visual-linguistic representation for long-tailed visual recognition},
+  author={Tian, Changyao and Wang, Wenhai and Zhu, Xizhou and Dai, Jifeng and Qiao, Yu},
+  booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XXV},
+  pages={73--91},
+  year={2022},
+  organization={Springer}
+}
