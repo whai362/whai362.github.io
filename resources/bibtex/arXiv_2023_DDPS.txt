@@ -1,0 +1,6 @@
+@article{lai2023denoising,
+  title={Denoising Diffusion Semantic Segmentation with Mask Prior Modeling},
+  author={Lai, Zeqiang and Duan, Yuchen and Dai, Jifeng and Li, Ziheng and Fu, Ying and Li, Hongsheng and Qiao, Yu and Wang, Wenhai},
+  journal={arXiv preprint arXiv:2306.01721},
+  year={2023}
+}
