@@ -1,0 +1,6 @@
+@article{huang2023leveraging,
+  title={Leveraging vision-centric multi-modal expertise for 3d object detection},
+  author={Huang, Linyan and Li, Zhiqi and Sima, Chonghao and Wang, Wenhai and Wang, Jingdong and Qiao, Yu and Li, Hongyang},
+  journal={arXiv preprint arXiv:2310.15670},
+  year={2023}
+}

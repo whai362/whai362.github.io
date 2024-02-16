@@ -1,6 +1,0 @@
-@article{li2023videochat,
-  title={Videochat: Chat-centric video understanding},
-  author={Li, KunChang and He, Yinan and Wang, Yi and Li, Yizhuo and Wang, Wenhai and Luo, Ping and Wang, Yali and Wang, Limin and Qiao, Yu},
-  journal={arXiv preprint arXiv:2305.06355},
-  year={2023}
-}

@@ -1,0 +1,7 @@
+@article{yuan2024feature,
+  title={Feature Selection Based on Intrusive Outliers Rather Than All Instances},
+  author={Yuan, Lixin and Mei, Cheng and Wang, Wenhai and Lu, Tong},
+  journal={IEEE Transactions on Image Processing},
+  year={2024},
+  publisher={IEEE}
+}

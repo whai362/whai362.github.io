@@ -1,0 +1,6 @@
+@article{gao2023avsegformer,
+  title={Avsegformer: Audio-visual segmentation with transformer},
+  author={Gao, Shengyi and Chen, Zhe and Chen, Guo and Wang, Wenhai and Lu, Tong},
+  journal={arXiv preprint arXiv:2307.01146},
+  year={2023}
+}

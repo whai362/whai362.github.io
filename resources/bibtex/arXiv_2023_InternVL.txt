@@ -1,0 +1,6 @@
+@article{chen2023internvl,
+  title={Internvl: Scaling up vision foundation models and aligning for generic visual-linguistic tasks},
+  author={Chen, Zhe and Wu, Jiannan and Wang, Wenhai and Su, Weijie and Chen, Guo and Xing, Sen and Muyan, Zhong and Zhang, Qinglong and Zhu, Xizhou and Lu, Lewei and others},
+  journal={arXiv preprint arXiv:2312.14238},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@article{liu2023controlllm,
+  title={Controlllm: Augment language models with tools by searching on graphs},
+  author={Liu, Zhaoyang and Lai, Zeqiang and Gao, Zhangwei and Cui, Erfei and Li, Zhiheng and Zhu, Xizhou and Lu, Lewei and Chen, Qifeng and Qiao, Yu and Dai, Jifeng and others},
+  journal={arXiv preprint arXiv:2310.17796},
+  year={2023}
+}

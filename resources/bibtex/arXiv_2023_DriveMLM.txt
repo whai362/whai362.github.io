@@ -1,0 +1,6 @@
+@article{wang2023drivemlm,
+  title={Drivemlm: Aligning multi-modal large language models with behavioral planning states for autonomous driving},
+  author={Wang, Wenhai and Xie, Jiangwei and Hu, ChuanYang and Zou, Haoming and Fan, Jianan and Tong, Wenwen and Wen, Yang and Wu, Silei and Deng, Hanming and Li, Zhiqi and others},
+  journal={arXiv preprint arXiv:2312.09245},
+  year={2023}
+}
