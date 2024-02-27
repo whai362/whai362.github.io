@@ -1,0 +1,8 @@
+@misc{xiong2024efficient,
+      title={Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications}, 
+      author={Yuwen Xiong and Zhiqi Li and Yuntao Chen and Feng Wang and Xizhou Zhu and Jiapeng Luo and Wenhai Wang and Tong Lu and Hongsheng Li and Yu Qiao and Lewei Lu and Jie Zhou and Jifeng Dai},
+      year={2024},
+      eprint={2401.06197},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
